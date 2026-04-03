@@ -1,0 +1,13 @@
+[MALE]: Welcome to Tech Talk, the podcast where we explore the future of technology! I'm your host, and today we have a special guest.
+[FEMALE]: Thanks for having me! I'm really excited to be here today. We have so much to discuss.
+[MALE]: Absolutely! So let's dive right in. Our topic today is Artificial Intelligence and how it's changing the world.
+[FEMALE]: Yes, AI has been a massive game changer. From healthcare to education, it's everywhere now.
+[MALE]: That's so true. I read recently that AI can now diagnose certain diseases better than doctors. Is that something you've been following?
+[FEMALE]: Yes! It's amazing. AI models trained on millions of medical images can detect patterns that human eyes might miss. But of course, it's not replacing doctors, it's assisting them.
+[MALE]: Right, the collaboration between humans and AI seems to be the way forward. Not replacement, but augmentation.
+[FEMALE]: Exactly. And that's the key insight. AI is a tool, and like any tool, its impact depends on how we use it.
+[MALE]: Well said. Before we wrap up this segment, any advice for our listeners who want to learn more about AI?
+[FEMALE]: Start with the basics. There are so many free resources online. Curiosity is your best asset. Don't be afraid to experiment and learn.
+[MALE]: Brilliant advice! Thank you so much for joining us today. This has been a fantastic conversation.
+[FEMALE]: Thank you for having me. It was a pleasure speaking with all of you. Keep learning and stay curious!
+[MALE]: And that's a wrap for today's episode of Tech Talk. Don't forget to subscribe and leave us a review. Until next time, take care everyone!
